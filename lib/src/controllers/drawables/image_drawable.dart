@@ -1,6 +1,5 @@
 import 'dart:ui';
 
-import 'package:flutter/rendering.dart';
 
 import 'object_drawable.dart';
 
